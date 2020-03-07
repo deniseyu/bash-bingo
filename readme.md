@@ -26,15 +26,11 @@ Possible ones to add:
 * md5sum
 * sha256sum
 * openssl
-* tee
 * chgrp
-* du
 * tail
 * head
 * netstat
 * useradd
-* whoami
-* date
 * uptime
 * mount
 * yes
