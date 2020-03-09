@@ -43,3 +43,9 @@ sudo
 vmstat
 ping
 ifconfig
+cut
+tr
+whoami
+date
+du
+tee
