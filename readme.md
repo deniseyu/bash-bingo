@@ -1,6 +1,6 @@
 ## Bash Bingo!
 
-A fun way to learn bash commands! Thanks to @akaul for contributing slides!
+A fun way to learn bash commands! Thanks to [Ayush Kaul](https://github.com/akaul) for contributing slides!
 
 ### How to play
 
